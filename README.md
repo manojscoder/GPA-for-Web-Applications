@@ -5,3 +5,5 @@ This is a web based authentication system which allows users to sign up and log 
 
 
 This project was developed using HTML, PHP, JavaScript, JQuery, CSS and MySQL.
+
+If you have any doubts, you can reachout to me mail:akmanoj15@gmail.com
